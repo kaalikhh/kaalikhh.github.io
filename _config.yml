@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Saurabh Yadav"
-  avatar           : "https://github.com/saurabhyadav789/saurabhyadav789.github.io/blob/master/docs/assets/images/1.jpg"
+  avatar           : "docs/assets/images/1.jpg"
   bio              : "I am an amazing person."
   location         : "Here Only"
   email            :
